@@ -2,7 +2,7 @@
 echo "current repository latest version:\n"
 git ls-remote --tags https://github.com/tcp-x/rpc-executor-interface.git
 # set latest version
-Version="v0.0.3"
+Version="v0.0.4"
 
 # cd $projDir
 go mod tidy
